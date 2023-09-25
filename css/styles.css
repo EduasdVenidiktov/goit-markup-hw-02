@@ -77,14 +77,6 @@ font-style: normal;
     color: #404BBF;
 }
 
-.address-tel{
-    color: #434455;
-}
-
-.address-tel:hover, .address-tel:focus {
-    color: #404BBF;
-}
-
 .solutions {
     background: #2E2F42;
 }
